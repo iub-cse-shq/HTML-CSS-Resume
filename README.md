@@ -16,6 +16,7 @@
   - image (img)
   - links (a)
   - table (th, tr, td, ...)
+  - form (form, input, button, ...)
 
 Work & submit in a branch names **html**
 
