@@ -40,3 +40,10 @@ Work & submit in a branch names **css**
 * Test and debug using Chrome Developer Tools
 
 Work & submit in a branch named **responsive**
+
+---
+---
+#### Featured Assignments from previous semesters
+##### Spring 2017 
+[HTML CSS Resume by Samina Hossain 1421163](https://github.com/samazing94/HTML-CSS-Resume)
+
