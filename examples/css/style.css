@@ -1,6 +1,6 @@
 /* External CSS file*/
 
-* {
+html {
   font-size: 18px;
 }
 
@@ -19,7 +19,7 @@ span, .lightText {
 
 /* Combination Example: Element with class */
 
-p.main {
+main {
   color: purple;
 }
 
