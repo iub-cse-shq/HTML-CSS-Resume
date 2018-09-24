@@ -9,13 +9,13 @@
 * Create your own resume using only HTML
 
 * Must use the following tags:
-  - heading (h1, h2, ...)
+  <!--- heading (h1, h2, ...)-->
   - paragraph (p)
-  - div
-  - lists (ul-li / ol-li)
-  - image (img)
-  - links (a)
-  - table (th, tr, td, ...)
+  <!--- div-->
+  <!--- lists (ul-li / ol-li)-->
+  <!--- image (img)-->
+  <!--- links (a)-->
+  <!--- table (th, tr, td, ...)-->
   - form (form, input, button, ...)
 
 Work & submit in a branch names **html**
