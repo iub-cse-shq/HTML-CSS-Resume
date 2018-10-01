@@ -1,1 +1,12 @@
 /* Your CSS styles go here */
+html {
+  background-color: gray;
+}
+.content{
+  background-color: #3a2c2c82;
+  font-size: 30px;
+}
+h4{
+background-color: #3a2c2c82;
+
+}
