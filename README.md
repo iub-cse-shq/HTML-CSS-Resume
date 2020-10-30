@@ -46,5 +46,5 @@ Work & submit in a branch named **responsive**
 #### Featured Assignments from previous semesters
 ##### Spring 2017 
 [HTML CSS Resume by Samina Hossain 1421163](https://github.com/samazing94/HTML-CSS-Resume)
-![Samina's Resume](https://sharedstuff88.s3-us-west-2.amazonaws.com/spring17_Samina.gif "Samina's Resume") 
+![Samina's Resume](/../screenshots/spring17_Samina.gif?raw=true "Samina's Resume") 
 
